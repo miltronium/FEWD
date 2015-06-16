@@ -1,0 +1,42 @@
+body {
+  color:
+  background:
+  font-size:
+  line-height:
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,h2 {text-align: center;
+
+}
+
+header img{ 
+            align:center;
+
+
+}
+
+header img {
+	border-top-left-radius: 180px;
+	border-top-right-radius: 180px;
+	border-top-right-radius: 180px;
+	border-bottom-right-radius: 180px;
+	border-bottom-left-radius: 180px;
+	border-bottom-right-radius: 180px;
+	border-top-left-radius: 180px;
+	border-bottom-left-radius: 180px;
+	overflow: hidden;
+}
+section div{text-align: center;
+
+}
+#container{
+  width:50%;
+  height:auto;
+  position:relative;
+  left:20%;
+
+}
